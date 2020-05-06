@@ -1,2 +1,2 @@
 # LeetCode-solutions
-Track of all the submissions made by me on LEETCODE May challenge.
+Track of all the submissions on LEETCODE May challenge in python language.
