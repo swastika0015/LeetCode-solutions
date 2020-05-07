@@ -1,5 +1,6 @@
 # The isBadVersion API is already defined for you.
 # @param version, an integer
+# @return boolean
 # def isBadVersion(version):
 
 class Solution:
