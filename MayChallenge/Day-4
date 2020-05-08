@@ -8,4 +8,4 @@
             else:
                 num[i]=1             
         s="".join(map(str,num))       #iterate list elements into string
-        return int(s,2)               #covert bin into dec
+        return int(s,2)               #covert bin into decimal
