@@ -15,7 +15,7 @@ class StockSpanner:
         
         if self.length > 0:
             result = self.index - self.stack[-1][1]
-            #print(result)
+           #print(result)
         else:
             result = self.index + 1
         self.stack.append([price, self.index])
